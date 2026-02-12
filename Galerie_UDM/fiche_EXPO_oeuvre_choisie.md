@@ -8,7 +8,7 @@ Premièrement, notre classe sommes allé voir une exposition au Galerie de l'Uni
 
 ## **Mon exposition**
 
-Le 29 janvier 2026, nous sommes aller voir plusieurs expositions à l'évènement Devenir Partage, Pratique de l'IA. Celle choisi se nomme "SlopPsyopRealism abonnez-vous $VP". Cette exposition, qui est dite, temporaire, ne perdurera pas dans le temps. Premièrement, c'est une exposition qui vend des objets pour le financer et deuxièmement, c'est un projet à court terme selon le créateur. Voici un photo de l'oeuvre en entier:
+Le 29 janvier 2026, nous sommes aller voir plusieurs expositions à l'évènement Devenir Partage, Pratique de l'IA. Celle choisi se nomme "SlopPsyopRealism (abonnez-vous $VP)". Cette exposition, qui est dite, temporaire, ne perdurera pas dans le temps. Premièrement, c'est une exposition qui vend des objets pour le financer et deuxièmement, c'est un projet à court terme selon le créateur. Voici un photo de l'oeuvre en entier:
 
 ![photo](photo/oeuvre_face.jpg)
 
@@ -30,7 +30,7 @@ Pour encore plus préciser la nature de l'oeuvre, on pourrait dire que cette oeu
 
 ## **Fonction du dispositif multimédia**
 
-La fonction de l'oeuvre, c'est principalement les écrans. Comme je l'ai dit précédemment, "SlopPsyopRealism" représente la folie des réseaux sociaux. Donc, on peut voir qu'il met en valeur les vidéos où il fusionne avec sa soeur et font des formes bizarres. On peut voir aussi les empojis un peu loufoques qui ne représentent absolument rien. Tout ça est bien mit en valeur pour montrer que les réseaux peuvent être aléatoire et absurde. 
+La fonction de l'oeuvre, c'est principalement les écrans. Comme je l'ai dit précédemment, "SlopPsyopRealism (abonnez-vous $VP)" représente la folie des réseaux sociaux. Donc, on peut voir qu'il met en valeur les vidéos où il fusionne avec sa soeur et font des formes bizarres. On peut voir aussi les empojis un peu loufoques qui ne représentent absolument rien. Tout ça est bien mit en valeur pour montrer que les réseaux peuvent être aléatoire et absurde. 
 
 ## **Mise en espace**
 
