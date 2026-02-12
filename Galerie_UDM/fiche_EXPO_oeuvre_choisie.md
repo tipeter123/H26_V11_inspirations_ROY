@@ -40,9 +40,22 @@ La fonction de l'oeuvre, c'est principalement les écrans. Comme je l'ai dit pr�
 
 Pour créer son oeuvre, il a utilisé plusieurs outils de décorations et de surplus pour bien exprime son travail. Premièrement, nous avons les hauts-parleurs qui permettent de sortir du son. De plus, nous avons des peluches, des télés, des affiche sur le mur et toutes sortes de lumières. 
 
+![photo](photo/ecran_revers.jpg)
 
+## **Éléments nécessaires à la mise en exposition**
+ Pour son exposition, il eu besoin de bien sur un mur, d'un drapeau et d'un socle. 
 
+ ![photo](photo/socle.jpg) ![photo](photo/drapeau.jpg)
 
+ ## **Expérience vécue**
+
+Comme on peut le voir ci-dessous, le jeune homme regarde les affiches qui étaient disposés sur les murs près de chaque exposition. Ils étaient tous très clairs et bien disposés. Une fille qui restait près pouvait également nous aide au cas où nous avions des questions. 
+
+![photo](photo/drapeau.jpg)
+
+## **Appréciation**
+
+ Ce qui m'a plu dans cette oeuvre c'est que je trouve qu'elle me représente. Le point commun que j'ai avec elle, c'est que on aime tous les deux les réseaux sociaux et je pense que c'est pour ça que je me suis rapproché de cette oeuvre. Je penses que si je devais enlever des aspects poru ma propre invention, ça serait le côté où c'est du n'improrte quoi. Le fait que ce qui est représenter, ce soit du n'importe quoi, même si c'est en quelque sorte le but, on ne comprend pas tout de suite et je penses que c'est vrm un désavantage.   
 
 
 
