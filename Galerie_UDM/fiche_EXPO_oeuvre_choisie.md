@@ -1,3 +1,5 @@
 # Devenirs partagés. Pratique de l'IA
 
-Premièrement, l'oeuvre choisi se omme "SlopPsyopRealism". 
+Premièrement, notre classe sommes allé voir une exposition au Galerie de l'Univerité de Montréal.
+
+![photo](
