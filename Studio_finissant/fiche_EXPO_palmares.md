@@ -1,67 +1,65 @@
 ## Palmarès de chaque exposition
 
-|Information recherchée  |Appui visuel à intégrer | Détails supplémentaires |
-| ---     | ---             | --- |
-| 1 || |
-| Terminal || |
-| Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger|| |
-| Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
-| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
-<br>
-  
-|Information recherchée  |Appui visuel à intégrer | Détails supplémentaires |
-| ---     | ---             | --- |
-| 2 || |
-| Symbiose || |
-| Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour || |
-| Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
-| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
+|Informations recherchées  |Appui visuel |
+| ---     | ---             | 
+| No ordre de préférence: 2 || 
+| Titre: Symbiose || 
+| Noms des créateurs et créatrices: Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour || 
+| Installation en cours (ou finale)|![photo](Photo/Installation_symbiose.jpg)| |
+| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|
+| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| 
 
 <br>
 
-|Information recherchée  |Appui visuel à intégrer | Détails supplémentaires |
-| ---     | ---             | --- |
-| 3 || |
-| o.i.g.n.o.n. || |
-| Ahmed Kaissoumi, Radhouane Kordan, Justin Monpetit, Thearylou Lach || |
-| Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
-| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
+|Informations recherchées |Appui visuel |
+| ---     | ---             | 
+| No ordre de préférence: 3 || 
+| Titre: o.i.g.n.o.n. || 
+| Noms des créateurs et créatrices: Ahmed Kaissoumi, Radhouane Kordan, Justin Monpetit, Thearylou Lach || 
+| Installation en cours (ou finale)|![photo](Photo/Installation_o_i_g_n_o_n.jpg)| |
+| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|
+| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| 
 
 
 <br>
 
-|Information recherchée  |Appui visuel à intégrer | Détails supplémentaires |
-| ---     | ---             | --- |
-| 4 || |
-| Océan rouge || |
-| Amira Tounekti, Kristy Moussaly|| |
-| Installation en cours (ou finale)|![photo](photo/)| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
-| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
+|Informations recherchées |Appui visuel|
+| ---     | ---             | 
+| No ordre de préférence: 4 || 
+| Titre: Océan rouge || 
+| Noms des créateurs et créatrices: Amira Tounekti, Kristy Moussaly|| 
+| Installation en cours (ou finale)|![photo](Photo/Installation_ocean_rouge.jpg)| |
+| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|
+| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| 
 
 <br>
 
-|Information recherchée  |Appui visuel à intégrer | Détails supplémentaires |
-| ---     | ---             | --- |
-| 5 || |
-| Arbre en Face || |
-| Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Angon Dube|| |
-| Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
-| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
+|Informations recherchées  |Appui visuel |
+| ---     | ---             | 
+| No ordre de préférence: 5 || 
+| Titre: Arbre en Face || 
+| Noms des créateurs et créatrices: Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Angon Dube|| |
+| Installation en cours (ou finale)|![photo](Photo/Installation_arbre_en_face.jpg)| |
+| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|
+| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| 
 
 <br>
 
-|Information recherchée  |Appui visuel à intégrer | Détails supplémentaires |
-| ---     | ---             | --- |
-| 6 || |
-| Quand les yeux se croisent || |
-| Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif|| |
-| Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
-| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
+|Informations recherchées  |Appui visuel |
+| ---     | ---             | 
+| No ordre de préférence: 6 || 
+| Titre: Quand les yeux se croisent || 
+| Noms des créateurs et créatrices: Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif|| 
+| Installation en cours (ou finale)|![photo](Photo/Installation_quand_les_yeux_se_croisent.jpg)| |
+| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|
+| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| 
+
+<br> 
+
+## Plus d'informations en rapport avec le programme
+|Information recherchée  |Appui | Détails supplémentaires |
+  | ---     | ---             | --- |
+  |  Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)) || |
+  | Nommer et décrire une technique **ou** une composante technologique qui est utilisée dans l'**un des projets** et que vous ne connaissiez pas. |photo ou croquis de la technique ou composante|Indiquer la source de l'information pour cette recherche |
 
 
