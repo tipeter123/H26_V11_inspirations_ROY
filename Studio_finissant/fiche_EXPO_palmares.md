@@ -6,7 +6,7 @@
 | Titre: Symbiose || 
 | Noms des créateurs et créatrices: Yannick Chamberland, Benjamin Ferland, Ryan Dufault, Walid Cheour || 
 | Installation en cours (ou finale)|![photo](Photo/Installation_symbiose.jpg)| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|
+| Schéma de l'installation prévue| ![Photo](Photo/Plan_symbiose.jpg) |
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| 
 
 <br>
@@ -17,7 +17,7 @@
 | Titre: o.i.g.n.o.n. || 
 | Noms des créateurs et créatrices: Ahmed Kaissoumi, Radhouane Kordan, Justin Monpetit, Thearylou Lach || 
 | Installation en cours (ou finale)|![photo](Photo/Installation_o_i_g_n_o_n.jpg)| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|
+| Schéma de l'installation prévue| ![Photo](Photo/Plan_oignon.png)|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| 
 
 
@@ -29,7 +29,7 @@
 | Titre: Océan rouge || 
 | Noms des créateurs et créatrices: Amira Tounekti, Kristy Moussaly|| 
 | Installation en cours (ou finale)|![photo](Photo/Installation_ocean_rouge.jpg)| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|
+| Schéma de l'installation prévue| ![Photo](Photo/Plan_ocean_rouge.png)|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| 
 
 <br>
@@ -40,7 +40,7 @@
 | Titre: Arbre en Face || 
 | Noms des créateurs et créatrices: Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Angon Dube|| |
 | Installation en cours (ou finale)|![photo](Photo/Installation_arbre_en_face.jpg)| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|
+| Schéma de l'installation prévue||
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| 
 
 <br>
@@ -51,7 +51,7 @@
 | Titre: Quand les yeux se croisent || 
 | Noms des créateurs et créatrices: Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya, Patricia Nassif|| 
 | Installation en cours (ou finale)|![photo](Photo/Installation_quand_les_yeux_se_croisent.jpg)| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|
+| Schéma de l'installation prévue| ![Photo](Photo/Plan_yeux.jpg)|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| 
 
 <br> 
