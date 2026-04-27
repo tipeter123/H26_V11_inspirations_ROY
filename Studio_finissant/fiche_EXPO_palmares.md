@@ -60,6 +60,6 @@
 |Information recherchée  |Appui |
   | ---     | ---             |
   |  Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet: Œuvres et dispositifs multimédias en exposition, Conception d’une expérience multimédia et Installation multimédia. || |
-  | Nommer et décrire une technique **ou** une composante technologique qui est utilisée dans l'**un des projets** et que vous ne connaissiez pas: Le logiciel Midjourney. Je ne connaissait tout simplement pas ce logiciel, mais c'est un logiciel pour générer des images à partir de texte.  |![Photo](Photo/Plan_yeux.jpg)|
+  | Nommer et décrire une technique **ou** une composante technologique qui est utilisée dans l'**un des projets** et que vous ne connaissiez pas: Le logiciel Midjourney. Je ne connaissait tout simplement pas ce logiciel, mais c'est un logiciel pour générer des images à partir de texte.  |![Photo](Photo/Midjourney.jpg)|
 
 
