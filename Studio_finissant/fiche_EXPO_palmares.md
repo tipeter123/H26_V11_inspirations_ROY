@@ -40,7 +40,7 @@
 | Titre: Arbre en Face || 
 | Noms des créateurs et créatrices: Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani, Rafael Angon Dube|| |
 | Installation en cours (ou finale)|![photo](Photo/Installation_arbre_en_face.jpg)| |
-| Schéma de l'installation prévue|![Photo](Photo/plan_arbre.jpg)|
+| Schéma de l'installation prévue|![Photo](Photo/Plan_arbre.jpg)|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| 
 
 <br>
