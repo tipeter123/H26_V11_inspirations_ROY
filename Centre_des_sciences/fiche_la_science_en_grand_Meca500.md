@@ -41,4 +41,25 @@ Il y a quand même beauoup de fonctions du dispositifs multimédia dans cette oe
 Voici un croquis du Meca500 et de sa mise en espace:
 
 ![photo](Photo/croquis.jpg)
+
+## Composantes et techniques
+
+Les composantes utilisés sont les blocs comme je l'ai montré précédemment et le bras robot.
+
+![photo](Photo/interieur_gauche.jpg) ![photo](Photo/instruction.jpg)
+>Photos prise par Félix Roy
  
+## Éléments nécessaires à la mise en exposition
+
+Pour cette oeuvre, il leur fallait un bras mécanique, plusieurs blocs pour le divertissements, un support pour mettre tous ces éléments et une cage en vitre. 
+
+![photo](Photo/support_oeuvre.jpg) ![photo](Photo/interieur_revers.jpg)
+>Photos prises par Félix Roy
+
+## Expérience vécue
+J'ai vraiment aimé mon expérience. C'était une exposition que j'avais faites quand j'était petit donc moi, étant nostalgique, j'ai trouvé ça très amusant. De plus que l'exposition n'ai pas changé du tout j'ai vraiment aimé ça. 
+
+
+## Appréciation
+
+J'ai de plus aimé toutes l'exposition en tant que telle, c'est toujours impressionnant, même à mon âge de voir des experiences scientifiques pareils.
