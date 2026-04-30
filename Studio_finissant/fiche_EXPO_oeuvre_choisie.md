@@ -35,3 +35,6 @@ Terminal est de type interactif. En effet, leur but c'est justement de faire jou
 
 ## Fonction du dispositif multimédia
 
+La fonction du dispositif, ce sont le grand écran sur lequel tout s'affiche et également tout ce qui est affiché sur l'écran. C'est avec cela que l'on peut voir notre perso se déplacer. Il y a également la manette, donc le bas, haut, gache et droite sur notre cellulaire. 
+
+![photo](Photo/vue_de_loin.jpg) ![photo](Photo/ecran_face.jpeg)
