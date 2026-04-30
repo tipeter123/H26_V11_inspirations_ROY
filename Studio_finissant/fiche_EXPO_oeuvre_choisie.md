@@ -21,7 +21,13 @@ Cette oeuvre a été réalisé par Émeryk Belisle, Elie Daher, Ting Yung Lu Ter
 
 Cette oeuvre met en valeur la coopération. Elle peut atteindre la capacité maximale de 6 joueurs et ensemble, nous devons s'entraider pour atteindre chacun la ligne d'arrivée. Il existe plusieurs niveaux pour nous mettre de plus en plus à l'épreuve. Plus les niveaux avancent, plus la difficulté s'endurcît. Pour mourir, c'est simple, il faut toucher les cotés ou s'entroicroiser avec ces alliés. Pour ce qui est de rejoindre le jeu, les joueurs commencent par se connecter au QR code sur le cartel et la partie commence!
 
-![photo](Photo/fiche_documentation.jpeg)
+![photo](Photo/fiche_documentation.jpg)
 
+> Photo prise par Félix Roy
 
+## Type d'installation 
+
+Terminal est de type interactif. En effet, leur but c'est justement de faire jouer plusieurs joueur à la fois en utilisant le cellulaire. C'est donc le joueur qui contrôle le petit personnage sur l'écran.
+
+![photo](Photo/ecran.jpg)
 
