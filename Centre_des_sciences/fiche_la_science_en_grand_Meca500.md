@@ -23,4 +23,4 @@ Pour ce qui est de l'oeuvre, elle permet de recréer des mouvements qui nécessi
 
 ## Type d'installation 
 
-Meca500 est bien évidemment de type interactif. 
+Meca500 est bien évidemment de type interactif. En effet, quand les jeunes arrivent pour voir cette oeuvre, ils peut interagir avec le robot. Avec les instructions qui sont situés sur le support, on peut déterminer qu'il faut utilisé les blocs pour faire réagir le robot. 
