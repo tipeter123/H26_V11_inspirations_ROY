@@ -41,4 +41,30 @@ La fonction du dispositif, ce sont le grand écran sur lequel tout s'affiche et 
 >Photos prise par Félix Roy
 
 ## Mise en espace 
-![photo](Photo/Installation_terminal.jpg)
+L'exposition se trouve dans le grand studio et il y a plsuieurs poufs qui pointent vers un écrans. 
+
+![photo](Photo/plan_terminal.png)
+>Photo prise sur le Github de Terminal
+
+## Composantes et techniques
+
+Comme composantes et techniques, nous avons par exemple le QR code qui permet de se connecter en tamt que personnage sur l'écran et qui sert également à afficher un manette directionnelle sur notre cellulaire. Nous avons également plusieurs speakers accrochés au plafond pour faire sortir du son pour le jeu. 
+
+![photo](Photo/speakers.jpg) ![photo](Photo/qr_code.jpg)
+>Photo prise par Félix Roy
+
+## Éléments nécessaires à la mise en exposition 
+
+Il leur fallait des poufs pour pouvoir s'installer confortablement pour jouer. Il leur fallait également un écrams et le QR code leur permettant de pourvoir jouer. Pour l'information, il leur fallait aussi une fiche de documentation pour pouvoir comprendre le jeu. 
+
+![photo](Photo/fiche_documentation.jpg) ![photo](Photo/qr_code.jpg) ![photo](Photo/Installation_terminal.jpg) 
+>Photo prise par Félix Roy
+
+
+## Expérience vécue
+J'ai bien aimé mon expérience. J'ai pu voir ce qu'il y avait à la fin de ma technique et ce que j'allait être capable de faire après celle-ci. J'ai pu voir la passion dans les yeux de ceux qui ont crée cette oeuvre et c'est très beau à voir. Les élèves étaient présent pour nous aider et ils jouaient même avec nous donc c'est un point positif à mon expérience.
+
+## Appréciation 
+J'ai bien aimé ce projet multimédia, ça mélange du déja-vu avec une touche personnelle donc c'est appréciable. 
+
+
