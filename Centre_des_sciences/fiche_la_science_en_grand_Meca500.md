@@ -9,6 +9,8 @@ Pour mon exposition choisie, j'ai choisi de prendre l'exposition permanente "La 
 Pour ce projet, j'ai décidé de prendre l'oeuvre qui se nomme "Mecca500". J'y suis allé le 2 avril 2026 avec toute ma classe.
 
 ![photo](Photo/face_gauche.jpg)
+>Photo prise par Félix Roy
+
 
 ## À propos de la réalisation
 
@@ -23,4 +25,20 @@ Pour ce qui est de l'oeuvre, elle permet de recréer des mouvements qui nécessi
 
 ## Type d'installation 
 
-Meca500 est bien évidemment de type interactif. En effet, quand les jeunes arrivent pour voir cette oeuvre, ils peut interagir avec le robot. Avec les instructions qui sont situés sur le support, on peut déterminer qu'il faut utilisé les blocs pour faire réagir le robot. 
+Meca500 est bien évidemment de type interactif. En effet, quand les jeunes arrivent pour voir cette oeuvre, ils peut interagir avec le robot. Avec les instructions qui sont situés sur le support, on peut déterminer qu'il faut utilisé les blocs pour faire réagir le robot. Voici les blocs utilisés afin de faire bouger ce fameux robot et les instructions au sol: 
+
+![photo](Photo/instruction.jpg)  ![photo](Photo/objet_interactif.jpg) ![photo](Photo/instruction_plancher.jpg)
+>Photos prises par Félix Roy
+
+## Fonctions du dispositif multimédia 
+Il y a quand même beauoup de fonctions du dispositifs multimédia dans cette oeuvre. Premièrement, il y a tous les blocs qui vont servir à faire bouger le robot. Grâce à ceux-ci, il pourra faire plusieurs expressions différentes. Il y a également tout le mécanisme qui sert à faire bouger le bras du Meca500
+
+![photo](Photo/intérieur_face_gauche.jpg) ![photo](Photo/interieur_revers_droit.jpg)
+>Photo prise par Félix Roy
+
+## Mise en espace 
+
+Voici un croquis du Meca500 et de sa mise en espace:
+
+![photo](Photo/croquis.jpg)
+ 
