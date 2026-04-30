@@ -31,3 +31,5 @@ Terminal est de type interactif. En effet, leur but c'est justement de faire jou
 
 ![photo](Photo/ecran.jpg)
 
+## Fonction du dispositif multimédia
+
